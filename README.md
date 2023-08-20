@@ -14,10 +14,10 @@ flutter run
 
 <h1>Login Page</h1>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/8009bb7b-514e-4833-8d05-cf36199b7925" width="200" alt="Login Page Screenshot 1">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/91c2d8a8-dc09-4237-952b-773e18e56e7e" width="200" alt="Login Page Screenshot 2">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/109f6b2c-07a2-4afe-bafb-dd4fde945474" width="200" alt="Login Page Screenshot 3">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/12e5d120-9ef4-48e0-b5ad-dc15260ea0e8" width="200" alt="Login Page Screenshot 4">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/251e06f5-ffd8-4df2-b180-dc6ccda3a2f2" width="200" alt="Login Page Screenshot 1">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/346994e1-d42a-4db1-9564-cb0757eb2498" width="200" alt="Login Page Screenshot 2">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/03ce4c5f-5c5c-474c-8623-b6c513d660c3" width="200" alt="Login Page Screenshot 3">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/05cc8f73-77d7-4f34-a989-8266b6fc3d70" width="200" alt="Login Page Screenshot 4">
 </div>
 <pre>
 <code>
@@ -30,8 +30,8 @@ flutter run
 
 <h1>Side Bar</h1>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/5f69acd4-39d3-4682-adc1-0596bd36e604" width="200" alt="Side Bar Screenshot 1">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/c13bcdff-9c41-4309-bd51-d4e3e8c349bc" width="200" alt="Side Bar Screenshot 2">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/00cf738e-d173-4e7f-aebf-c3d054bc5b04" width="200" alt="Side Bar Screenshot 1">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/4b989a3b-13c7-41fe-b137-af00e3e726f7" width="200" alt="Side Bar Screenshot 2">
 </div>
 <pre>
 <code>
