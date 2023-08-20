@@ -1,7 +1,7 @@
 <h1>Google Map</h1>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/a30b3748-436b-4935-a6ed-0fc5a14cbf13" width="200" alt="Google Map Screenshot 1">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/6c7fece7-9dfb-4c6f-885f-0b5a48f064fa" width="200" alt="Google Map Screenshot 2">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/a293aa56-ce11-4171-af21-5c19f72e34d8" width="200" alt="Google Map Screenshot 1">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/9d6545d5-195f-4f12-bae9-020ac9a8c6f0" width="200" alt="Google Map Screenshot 2">
 </div>
 <pre>
 <code>
