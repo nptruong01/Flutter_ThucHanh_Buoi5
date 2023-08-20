@@ -45,8 +45,8 @@ flutter run
 <h1>Travel UI</h1>
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/c300e5cc-cb66-4de2-b563-2b63b29e0a56" width="200" alt="Travel UI Screenshot 1">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/535233f6-fcd1-4f9c-bf56-3ca4d5efd3b5" width="200" alt="Travel UI Screenshot 2">
-  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/6969105e-2c49-4748-9e88-2245d1c008ee" width="200" alt="Travel UI Screenshot 3">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/701a330e-6372-4992-bbd8-1701b5237850" width="200" alt="Travel UI Screenshot 2">
+  <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi5/assets/113322089/215bb1eb-77bc-4184-99c5-55a0fcb34a49" width="200" alt="Travel UI Screenshot 3">
 </div>
 <pre>
 <code>
