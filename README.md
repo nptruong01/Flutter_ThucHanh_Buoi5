@@ -7,9 +7,9 @@
 </div>
 <pre>
 <code>
-git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git &&
-cd Flutter_ThucHanh_Buoi5/GoogleMap &&
-flutter pub get &&
+git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git
+cd Flutter_ThucHanh_Buoi5/GoogleMap 
+flutter pub get 
 flutter run
 </code>
 </pre>
@@ -23,9 +23,9 @@ flutter run
 </div>
 <pre>
 <code>
-git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git &&
-cd Flutter_ThucHanh_Buoi5/LoginPage &&
-flutter pub get &&
+git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git 
+cd Flutter_ThucHanh_Buoi5/LoginPage 
+flutter pub get 
 flutter run
 </code>
 </pre>
@@ -37,9 +37,9 @@ flutter run
 </div>
 <pre>
 <code>
-git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git &&
-cd Flutter_ThucHanh_Buoi5/SideBar &&
-flutter pub get &&
+git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git 
+cd Flutter_ThucHanh_Buoi5/SideBar 
+flutter pub get 
 flutter run
 </code>
 </pre>
@@ -52,9 +52,9 @@ flutter run
 </div>
 <pre>
 <code>
-git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git &&
+git clone https://github.com/nptruong01/Flutter_ThucHanh_Buoi5.git 
 cd Flutter_ThucHanh_Buoi5/TravelUI &&
-flutter pub get &&
+flutter pub get 
 flutter run
 </code>
 </pre>
