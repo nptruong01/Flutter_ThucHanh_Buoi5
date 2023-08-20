@@ -1,4 +1,4 @@
-### 08CNPM_0850080110_ NguyenPhiTruong_ThucHanh_Buoi5
+### 08CNPM_0850080110_ NguyenPhiTruong_ThucHanh_Buoi
 
 <h1>Google Map</h1>
 <div style="display: flex; flex-direction: row;">
